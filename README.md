@@ -22,7 +22,7 @@ SOFTWARE.
 
 To install in Laravel:
 ```
-composer require ivanpellegatta84/faker-car-concessionary
+composer require ivanpellegatta84/fake-car-concessionary
 ```
 
 Use example in Laravel Factories:
